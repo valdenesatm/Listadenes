@@ -1,0 +1,17 @@
+#EXTM3U
+ 
+
+#PLAYLISTV: pltv-logo="http://3.bp.blogspot.com/-JJ7lF3VGPxY/VQ8JavCwkII/AAAAAAAAAVk/A8-mX8bWzzA/s1600/vasco%2Bfirst.png" pltv-name="VALDENES TESTE" pltv-description="LISTA DE CANAIS" pltv-cover="https://s3.amazonaws.com/gumroad/files/69681cbdfc664ab19581255368220afc/original/1914665small.jpg" pltv-author="Valdenes de Sousa Pinto" pltv-site="www.valdenes.com.br" pltv-email="valdenespinto@hotmail.com"
+
+
+
+########## Canais Abertos ###########
+ 
+#EXTINF:0 tvg-logo="https://abrilveja.files.wordpress.com/2016/11/logoband.png" group-title="TV ABERTA",BAND HD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1557242029_b216000_sleng.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="TV ABERTA",RECORD HD
+https://gg3.azureedge.net//hls1/recordsp.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/1d/20180330131441%21LOGO_REDETV%21.png" group-title="TV ABERTA",REDETV! HD
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w284009987.m3u8
