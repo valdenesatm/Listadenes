@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="BAND HD">
+    <display-name lang="pt">BAND HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD HD">
+    <display-name lang="pt">RECORD HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="REDETV! HD">
+    <display-name lang="pt">REDETV! HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
